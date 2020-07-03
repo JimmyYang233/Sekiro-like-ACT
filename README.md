@@ -7,7 +7,7 @@ Below are the steps, just to remind me what I need to do next
 2. Add Health and Posture UI for main player and enemy(done)
 3. presss middle mouse to lock on enemy system(done)
 4. basic walk/run animation blendspace(done)
-5. double jump system(not done)
+5. jump system(not done)
 6. dodge system(done)
 7. 3 combo attack system(done)
 8. spike system(done)
