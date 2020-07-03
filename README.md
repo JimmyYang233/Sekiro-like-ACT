@@ -1,5 +1,5 @@
 # Sekiro-like-ACT
-Since I am a fun of Sekiro:Shadow Die Twice, I would like to replicate the entire system in sekrio, this is purely done by myself, with the help of internet resource
+Since I am a fun of Sekiro:Shadow Die Twice, I would like to replicate the entire system in UE4, this is purely done by myself, with the help of internet resource
 All animations are coming from online, please do not use for any business purpose
 Below are the steps, just to remind me what I need to do next
 
