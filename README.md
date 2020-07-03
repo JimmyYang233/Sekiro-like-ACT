@@ -9,12 +9,13 @@ Below are the steps, just to remind me what I need to do next
 4. basic walk/run animation blendspace(done)
 5. jump system(done)
 6. dodge system(done)
-7. 3 combo attack system(done)
-8. spike system(done)
-9. hit reaction system, include lay down and stand up(done)
-10. block system(debugging)
-11. rebound system
-12. create a great enough AI
-13. climb system
-14. grappling hook system
-15. add sound(if I can find any)
+7. equip/unequip system(done)
+8. 3 combo attack system(done)
+9. spike system(done)
+10. hit reaction system, include lay down and stand up(done)
+11. block system(debugging)
+12. rebound system
+13. create a great enough AI
+14. climb system
+15. grappling hook system
+16. add sound(if I can find any)
