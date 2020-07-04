@@ -13,9 +13,10 @@ Below are the steps, just to remind me what I need to do next
 8. 3 combo attack system(done)
 9. spike system(done)
 10. hit reaction system, include lay down and stand up(done)
-11. block system(debugging)
-12. rebound system
-13. create a great enough AI
-14. climb system
-15. grappling hook system
-16. add sound(if I can find any)
+11. block system(done)
+12. Create some rebound animations(working)
+13. rebound system
+14. create a great enough AI
+15. climb system
+16. grappling hook system
+17. add sound(if I can find any)
